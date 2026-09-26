@@ -1,7 +1,9 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
 Coletânea de projetos práticos e soluções desenvolvidas durante a graduação em Gestão da Produção Industrial na FATEC, utilizando ferramentas do Microsoft e externas para análise de dados, otimização de processos e comunicação visual.
 
-# A multiplicidade de olhares na construção do conhecimento é algo que deve ser adotado para toda a vida.
+# Perspectivas Cruzadas: Do Hábito à Inspiração
+
+A multiplicidade de olhares na construção do conhecimento é algo que deve ser adotado para toda a vida.
 
 Neste primeiro projeto em grupo, abordamos 3 temas centrais sob 4 perspectivas diferentes para cada um deles. Falamos sobre nossas comidas preferidas e os motivos por trás dessas escolhas, assim como sobre nossos hobbies e a importância deles no dia a dia.
 
