@@ -10,4 +10,4 @@ Neste primeiro projeto em grupo, abordamos 3 temas centrais sob 4 perspectivas d
 Entretanto, a minha parte preferida foi falar sobre o que — _ou melhor, em quem_ — nos inspiramos. Este na foto é o meu pai. Ele é a minha maior inspiração porque nunca desistiu dos seus sonhos e sempre me motivou a não desistir dos meus.
 
 <img width="1237" height="694" alt="image" src="https://github.com/user-attachments/assets/648d3c23-8709-4295-a4eb-a938c5c81fe7" />
->  https://canva.link/8n08fjz6ci5om28
+  ### https://canva.link/8n08fjz6ci5om28
