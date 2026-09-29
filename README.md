@@ -12,7 +12,7 @@ Entretanto, a minha parte preferida foi falar sobre o que — _ou melhor, em que
 <img width="1237" height="694" alt="image" src="https://github.com/user-attachments/assets/648d3c23-8709-4295-a4eb-a938c5c81fe7" />
   > https://canva.link/8n08fjz6ci5om28
 
-# *Análise de Operadores de Transporte Multimodal*
+# *Diagnóstico e Análise dos Operadores de Transporte Multimodal (OTM) | ANTT & Excel*
 
 O presente projeto consolida um estudo analítico desenvolvido no Microsoft Excel, fundamentado em modelagem por fórmulas e representações gráficas, a partir do ecossistema de dados abertos da Agência Nacional de Transportes Terrestres (ANTT). O estudo propõe uma radiografia detalhada da infraestrutura regulatória e da distribuição dos Operadores de Transporte Multimodal no Brasil.
 
