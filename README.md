@@ -14,5 +14,5 @@ Entretanto, a minha parte preferida foi falar sobre o que — _ou melhor, em que
 
 # *Análise de Operadores de Transporte Multimodal*
 
-Análise em Excel por gráficos e fórmulas sobre as empresas de Transporte Multimodal reguladas pela ANTT. O projeto mapeia a distribuição por estados, a presença de empresas estrangeiras no país, o COTM de maior vigência e o status atual de regularidade das empresas em 2026.
+Análise em Excel por gráficos e fórmulas sobre as empresas de Transporte Multimodal reguladas pela ANTT. O projeto mapeia a distribuição por estados, a presença de empresas estrangeiras no país, o COTM de maior vigência e o status atual de regularidade das empresas em 2026.  
 <img width="1856" height="395" alt="image" src="https://github.com/user-attachments/assets/3257886f-84a2-4d98-aad1-7d7683977223" />
