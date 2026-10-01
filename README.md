@@ -17,3 +17,5 @@ Entretanto, a minha parte preferida foi falar sobre o que — _ou melhor, em que
 O presente projeto consolida um estudo analítico desenvolvido no Microsoft Excel, fundamentado em modelagem por fórmulas e representações gráficas, a partir do ecossistema de dados abertos da Agência Nacional de Transportes Terrestres (ANTT). O estudo propõe uma radiografia detalhada da infraestrutura regulatória e da distribuição dos Operadores de Transporte Multimodal no Brasil.
 
 <img width="1856" height="395" alt="image" src="https://github.com/user-attachments/assets/3257886f-84a2-4d98-aad1-7d7683977223" />
+
+<img width="1671" height="697" alt="image" src="https://github.com/user-attachments/assets/47c5286c-9caa-4c90-ae70-c70a61bd9f05" />
