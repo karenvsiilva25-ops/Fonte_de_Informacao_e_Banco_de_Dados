@@ -23,3 +23,7 @@ O presente projeto consolida um estudo analítico desenvolvido no Microsoft Exce
 Do dado bruto à inteligência visual ✈️📊 Análise detalhada das ocorrências da aviação civil utilizando fórmulas avançadas, tabelas dinâmicas e gráficos interativos para identificar padrões e tendências.
 
 <img width="1671" height="697" alt="image" src="https://github.com/user-attachments/assets/47c5286c-9caa-4c90-ae70-c70a61bd9f05" />
+
+# *📊 Power BI na Logística: Modelagem e DAX Aplicados ao Setor Multimodal*
+
+Mapeando a infraestrutura e o fluxo do transporte multimodal no Brasil. Conectei dados abertos a um dashboard interativo no Power BI, utilizando fórmulas DAX, visualizações dinâmicas e modelagem de dados para transformar indicadores logísticos em insights estratégicos.
