@@ -27,7 +27,7 @@ Coletânea de projetos práticos e soluções desenvolvidas durante a graduaçã
 
 A multiplicidade de olhares na construção do conhecimento é algo que deve ser adotado para toda a vida.
 
-Aprender sob múltiplos olhares é uma lição pra vida. Neste projeto, falamos de comidas e hobbies, mas minha parte preferida foi homenagear meu pai: minha maior inspiração por nunca desistir dos seus sonhos e me incentivar a buscar os meus.
+Neste projeto, falamos de comidas e hobbies, mas minha parte preferida foi homenagear meu pai: minha maior inspiração por nunca desistir dos seus sonhos e me incentivar a buscar os meus.
 
 <img width="1237" height="694" alt="image" src="https://github.com/user-attachments/assets/648d3c23-8709-4295-a4eb-a938c5c81fe7" />
   > https://canva.link/8n08fjz6ci5om28
