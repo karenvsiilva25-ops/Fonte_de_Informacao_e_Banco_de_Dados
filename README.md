@@ -1,27 +1,42 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
 Coletânea de projetos práticos e soluções desenvolvidas durante a graduação em Gestão da Produção Industrial na FATEC, utilizando ferramentas do Microsoft e externas para análise de dados, otimização de processos e comunicação visual.
 
-# Hi there, I'm Karen Silva! 👋 
+# Hi there, I'm Karen Silva! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005691&width=500&lines=Industrial+Production+Management+Student;EHS+%2F+Safety+Learner+at+Bosch;Data+%26+Process+Optimization+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
 ### 🎓 About Me
 
-- 🎓 **Education:** Pursuing a Technology Degree in **Industrial Production Management** (*Gestão de Produção Industrial*) at **Fatec**.
-- 💼 **Work:** **Young Apprentice (Jovem Aprendiz)** at **Bosch Home Comfort Group**, working focused on **Occupational Safety & EHS** (*Segurança do Trabalho*).
-- 🎂 **Age:** 20 years old.
-- 🎯 **Focus Areas:** Lean Manufacturing, EHS (Environment, Health & Safety), Process Optimization, and Data Analysis (Power BI, Excel, ANTT/Logistics Datasets).
-- 🌱 **Currently Learning:** Power BI DAX, and Data-Driven Safety Analytics.
+- 🎓 **Education:** Pursuing a Higher Technology Degree in **Industrial Production Management** (*Gestão de Produção Industrial*) at **Fatec**.
+- 💼 **Professional Role:** Young Apprentice (*Jovem Aprendiz*) at **Bosch Home Comfort Group**, focused on **Occupational Safety, Environment, Health & Safety (EHS)**.
+- 🎯 **Focus Areas:** Lean Manufacturing, EHS (Environment, Health & Safety), Process Optimization, Ergonomics, and Data-Driven Safety Analytics.
+- 🌱 **Currently Learning:** Advanced Power BI (DAX), Predictive Safety Analytics, and Logistics Datasets Analysis (ANTT).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Core Skills
 
-#### **Management & Safety**
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data & Analytics** | Power BI, DAX, Microsoft Excel (Advanced Analytics), ANTT Datasets |
+| **Industrial Management** | Lean Manufacturing, Process Optimization, 5S, Kaizen, Quality Tools |
+| **EHS & Safety** | Occupational Safety, Risk Assessment, EHS Metrics, Safety Campaigns (SIPATMA) |
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/Karen Silva](www.linkedin.com/in/karen-silva-b62858330)
+- **Email:** `karenvsiilva25@gmail.com`
+
+---
+*✨ Passionate about combining data analysis and continuous improvement to build safer, more efficient industrial environments.*
 
 # *Perspectivas Cruzadas: Do Hábito à Inspiração*
 
