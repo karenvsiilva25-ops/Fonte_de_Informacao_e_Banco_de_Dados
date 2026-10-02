@@ -18,4 +18,8 @@ O presente projeto consolida um estudo analítico desenvolvido no Microsoft Exce
 
 <img width="1856" height="395" alt="image" src="https://github.com/user-attachments/assets/3257886f-84a2-4d98-aad1-7d7683977223" />
 
+# *Análise de Dados na Aviação: Das Planilhas aos Insights*
+
+Do dado bruto à inteligência visual ✈️📊 Análise detalhada das ocorrências da aviação civil utilizando fórmulas avançadas, tabelas dinâmicas e gráficos interativos para identificar padrões e tendências.
+
 <img width="1671" height="697" alt="image" src="https://github.com/user-attachments/assets/47c5286c-9caa-4c90-ae70-c70a61bd9f05" />
