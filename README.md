@@ -48,3 +48,6 @@ Do dado bruto à inteligência visual ✈️📊 Análise detalhada das ocorrên
 # *📊 Power BI na Logística: Modelagem e DAX Aplicados ao Setor Multimodal*
 
 Mapeando a infraestrutura e o fluxo do transporte multimodal no Brasil. Conectei dados abertos a um dashboard interativo no Power BI, utilizando fórmulas DAX, visualizações dinâmicas e modelagem de dados para transformar indicadores logísticos em insights estratégicos.
+
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/93b36ddd-e068-4d15-910d-b28c8bcd5015" />
+
