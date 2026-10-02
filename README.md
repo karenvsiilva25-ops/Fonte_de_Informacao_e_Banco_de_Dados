@@ -15,7 +15,7 @@ Coletânea de projetos práticos e soluções desenvolvidas durante a graduaçã
 - 💼 **Work:** **Young Apprentice (Jovem Aprendiz)** at **Bosch Home Comfort Group**, working focused on **Occupational Safety & EHS** (*Segurança do Trabalho*).
 - 🎂 **Age:** 20 years old.
 - 🎯 **Focus Areas:** Lean Manufacturing, EHS (Environment, Health & Safety), Process Optimization, and Data Analysis (Power BI, Excel, ANTT/Logistics Datasets).
-- 🌱 **Currently Learning:** Power BI DAX, Continuous Improvement (KAIZEN), and Data-Driven Safety Analytics.
+- 🌱 **Currently Learning:** Power BI DAX, and Data-Driven Safety Analytics.
 
 ---
 
