@@ -1,6 +1,28 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
 Coletânea de projetos práticos e soluções desenvolvidas durante a graduação em Gestão da Produção Industrial na FATEC, utilizando ferramentas do Microsoft e externas para análise de dados, otimização de processos e comunicação visual.
 
+# Hi there, I'm Karen Silva! 👋 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005691&width=500&lines=Industrial+Production+Management+Student;EHS+%2F+Safety+Learner+at+Bosch;Data+%26+Process+Optimization+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
+### 🎓 About Me
+
+- 🎓 **Education:** Pursuing a Technology Degree in **Industrial Production Management** (*Gestão de Produção Industrial*) at **Fatec**.
+- 💼 **Work:** **Young Apprentice (Jovem Aprendiz)** at **Bosch Home Comfort Group**, working focused on **Occupational Safety & EHS** (*Segurança do Trabalho*).
+- 🎂 **Age:** 20 years old.
+- 🎯 **Focus Areas:** Lean Manufacturing, EHS (Environment, Health & Safety), Process Optimization, and Data Analysis (Power BI, Excel, ANTT/Logistics Datasets).
+- 🌱 **Currently Learning:** Power BI DAX, Continuous Improvement (KAIZEN), and Data-Driven Safety Analytics.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Management & Safety**
+
 # *Perspectivas Cruzadas: Do Hábito à Inspiração*
 
 A multiplicidade de olhares na construção do conhecimento é algo que deve ser adotado para toda a vida.
