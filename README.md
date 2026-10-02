@@ -30,6 +30,7 @@ A multiplicidade de olhares na construção do conhecimento é algo que deve ser
 Neste projeto, falamos de comidas e hobbies, mas minha parte preferida foi homenagear meu pai: minha maior inspiração por nunca desistir dos seus sonhos e me incentivar a buscar os meus.
 
 <img width="1237" height="694" alt="image" src="https://github.com/user-attachments/assets/648d3c23-8709-4295-a4eb-a938c5c81fe7" />
+  > Abaixo, temos o link da apresentação completa
   > https://canva.link/8n08fjz6ci5om28
 
 # *Diagnóstico e Análise dos Operadores de Transporte Multimodal (OTM) | ANTT & Excel*
