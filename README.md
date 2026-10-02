@@ -4,7 +4,7 @@ Coletânea de projetos práticos e soluções desenvolvidas durante a graduaçã
 # Hi there, I'm Karen Silva! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/karen-silva-b62858330" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
