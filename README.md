@@ -4,81 +4,81 @@ Coletânea de projetos práticos e soluções desenvolvidas durante a graduaçã
 # Hi there, I'm Karen Silva 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&width=435&lines=Jovem+Aprendiz+%40+Bosch;Futura+Comiss%C3%A1ria+de+Voo;Apaixonada+por+Rela%C3%A7%C3%B5es+Int." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&width=460&lines=Apprentice+%40+Bosch+Home+Comfort;Aspiring+Flight+Attendant;Passionate+about+International+Relations" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌟 Sobre Mim
+### 🌟 About Me
 
-- 📍 **Idade:** 20 anos
-- 💼 **Atuação Atual:** Jovem Aprendiz em Segurança do Trabalho na **Bosch Home Comfort Group**
-- 🎯 **Próximos Passos:** Formação para Comissária de Voo & Graduação em Relações Internacionais
-- 🌍 **Interesses:** Aviação, Gestão de Segurança, Cultura Internacional, Comunicação e Idiomas
+- 📍 **Age:** 20 years old
+- 💼 **Current Role:** Occupational Health & Safety Apprentice at **Bosch Home Comfort Group**
+- 🎯 **Career Goals:** Certified Flight Attendant & International Relations Degree Candidate
+- 🌍 **Key Interests:** Aviation, Safety Management, Global Cultures, Intercultural Communication & Languages
 
 ---
 
-### 🛠️ Minha Jornada Profissional & Habilidades
+### 🛠️ Professional Journey & Key Skills
 
-| Área | Foco & Tecnologias |
+| Field | Focus & Key Tools |
 | :--- | :--- |
-| **Segurança do Trabalho** | Inspeção de Rotina, Mapeamento de Riscos, Rotinas de HSE, Conscientização Operacional |
-| **Ferramentas & Análise** | Microsoft Excel, Power BI, Canva, Pacote Office |
-| **Atendimento & Comunicação** | Oratória, Gestão de Crise, Resolução de Conflitos, Trabalho sob Pressão |
+| **Occupational Health & Safety** | Routine Inspections, Risk Assessment, HSE Standards, Workplace Safety Awareness |
+| **Data & Visualization Tools** | Microsoft Excel, Power BI, Canva, Microsoft Office Suite |
+| **Interpersonal & Service Skills** | Public Speaking, Crisis Management, Conflict Resolution, High-Pressure Decision Making |
 
 ---
 
-### 🚀 Objetivos e Plano de Voo
+### 🚀 Career Flight Plan
 
 <details>
-<summary>🔍 <b>Clique para expandir meu Plano de Carreira</b></summary>
+<summary>🔍 <b>Click to expand my career roadmap</b></summary>
 
 <br>
 
-1. **Atualmente (Bosch Home Comfort Group):**
-   - Absorver as melhores práticas da indústria global em Segurança do Trabalho, processos corporativos e trabalho em equipe multicultural.
+1. **Current Milestone (Bosch Home Comfort Group):**
+   - Absorbing industry-leading practices in Occupational Health & Safety, corporate governance, and cross-functional teamwork within a global multinational.
 
-2. **Curto / Médio Prazo (Aviação):**
-   - Concluir a formação teórica/prática para Comissária de Voo (ANAC).
-   - Aprimorar a fluência em idiomas (Inglês / Espanhol).
-   - Atuar na aviação comercial garantindo a segurança a bordo e a excelência no atendimento aos passageiros.
+2. **Short / Medium-Term Goal (Aviation):**
+   - Complete formal flight attendant certification & training (ANAC standards).
+   - Enhance language proficiency (English / Spanish).
+   - Join commercial aviation to ensure passenger safety, emergency readiness, and flight service excellence.
 
-3. **Longo Prazo (Relações Internacionais):**
-   - Cursar Relações Internacionais para aprofundar o conhecimento em diplomacia, culturas globais e comércio internacional.
+3. **Long-Term Goal (International Relations):**
+   - Pursue a degree in International Relations to deepen knowledge in diplomacy, global affairs, and international trade.
 
 </details>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-### ✈️ Quiz Rápido (Interativo)
+### ✈️ Quick FAQ (Interactive)
 
 <details>
-<summary>❓ <b>Por que alinhar Segurança do Trabalho com Aviação?</b></summary>
+<summary>❓ <b>How does Occupational Safety connect to Aviation?</b></summary>
 
 <br>
 
-> **Resposta:** A aviação comercial é uma das indústrias mais rigorosas do mundo em cultura de segurança (*Safety & Security*). A bagagem prática em **Segurança do Trabalho** adquirida em um ambiente industrial de ponta como a Bosch traz uma base sólida na prevenção de acidentes, gerenciamento de riscos e atenção aos procedimentos de emergência — pilares fundamentais da profissão de Comissária de Voo!
+> **Insight:** Commercial aviation relies heavily on a robust **Safety & Security Culture**. Practical experience in **Occupational Health & Safety** within a world-class manufacturing plant like Bosch builds a strong foundation in risk mitigation, emergency response protocols, and hazard prevention—the exact pillars required for an exceptional flight attendant!
 
 </details>
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
