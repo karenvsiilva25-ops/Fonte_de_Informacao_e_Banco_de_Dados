@@ -76,3 +76,10 @@ Mapeando a infraestrutura e o fluxo do transporte multimodal no Brasil. Conectei
 
 <img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/93b36ddd-e068-4d15-910d-b28c8bcd5015" />
 
+# *✈️ Análise de Ocorrências Aeronáuticas | Dashboard Interativo no Power BI*
+
+Este projeto consiste numa análise exploratória e visualização de dados abertos relativos a ocorrências e acidentes na aviação. Através do Power BI e da modelação de dados em DAX, foi criado um dashboard dinâmico que permite analisar padrões operacionais, severidade dos danos e perfis das aeronaves envolvidas.
+
+<img width="1434" height="800" alt="image" src="https://github.com/user-attachments/assets/17e747ae-a043-411c-b944-f4389a60abfc" />
+
+
