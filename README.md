@@ -50,35 +50,13 @@ Coletânea de projetos práticos e soluções desenvolvidas durante a graduaçã
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-### ✈️ Quick FAQ (Interactive)
-
-<details>
-<summary>❓ <b>How does Occupational Safety connect to Aviation?</b></summary>
-
-<br>
-
-> **Insight:** Commercial aviation relies heavily on a robust **Safety & Security Culture**. Practical experience in **Occupational Health & Safety** within a world-class manufacturing plant like Bosch builds a strong foundation in risk mitigation, emergency response protocols, and hazard prevention—the exact pillars required for an exceptional flight attendant!
-
-</details>
-
----
-
 ### 📬 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/karen-silva-b62858330/?isSelfProfile=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:karenvsiilva25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
