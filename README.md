@@ -82,4 +82,11 @@ Este projeto consiste numa análise exploratória e visualização de dados aber
 
 <img width="1434" height="800" alt="image" src="https://github.com/user-attachments/assets/17e747ae-a043-411c-b944-f4389a60abfc" />
 
+# *Análise de Correlação e Linhas de Tendência: Prática Integrada*
+
+Implementação prática de gráficos de dispersão e análise de padrões de dados no Excel e Google Colab.
+
+<img width="1088" height="604" alt="image" src="https://github.com/user-attachments/assets/dab468f5-679d-4b04-962f-296c511697dd" />
+
+
 
