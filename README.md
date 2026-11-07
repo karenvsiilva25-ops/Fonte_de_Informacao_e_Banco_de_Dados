@@ -86,7 +86,11 @@ Este projeto consiste numa análise exploratória e visualização de dados aber
 
 Implementação prática de gráficos de dispersão e análise de padrões de dados no Excel e Google Colab.
 
-<img width="1088" height="604" alt="image" src="https://github.com/user-attachments/assets/dab468f5-679d-4b04-962f-296c511697dd" />
+<img width="1084" height="599" alt="image" src="https://github.com/user-attachments/assets/7da178eb-dceb-4c9d-bfaa-ae41eadfd9bb" />
+
+<img width="1092" height="576" alt="image" src="https://github.com/user-attachments/assets/396730db-c91a-4ac9-a439-a4f45b25cba2" />
+
+
 
 
 
